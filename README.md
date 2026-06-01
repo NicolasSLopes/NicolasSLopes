@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0533,50:6c3483,100:e74c3c&height=250&section=header&text=Olá,%20sou%20o%20Nicolas%20&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0533,50:6c3483,100:e74c3c&height=250&section=header&text=Olá,%20sou%20o%20Nicolas%20&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45&" width="100%"/>
 
 <!-- BADGES -->
 <br>
