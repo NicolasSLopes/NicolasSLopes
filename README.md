@@ -1,81 +1,100 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1e293b,50:334155,100:475569&height=220&section=header&text=Olá,%20sou%20o%20Nicolas!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=Nicolas%20Lopes&fontSize=42&fontColor=ffffff&fontAlignY=50&desc=Desenvolvimento%20de%20Sistemas%20%C2%B7%20Software%20%C2%B7%20Infraestrutura&descAlignY=75&descSize=16" width="100%"/>
 
-<br>
-
-[![Visits](https://komarev.com/ghpvc/?username=NicolasSLopes\&label=Visits\&color=475569\&style=flat-square)](https://github.com/NicolasSLopes)
-[![Repos](https://img.shields.io/badge/Repos-16-334155?style=flat-square\&logo=github)](https://github.com/NicolasSLopes)
-[![Followers](https://img.shields.io/github/followers/NicolasSLopes?label=Followers\&style=flat-square\&color=475569)](https://github.com/NicolasSLopes)
-
-<br>
-
-###  Sobre mim
+<br><br>
 
 <p>
-Estudante do <b>3º ano do Ensino Médio</b> e do curso de
-<b>Desenvolvimento de Sistemas</b>. Tenho interesse em tecnologia,
-desenvolvimento de software e infraestrutura.
+Estudante do <b>3º ano do Ensino Médio</b> e do curso técnico de
+<b>Desenvolvimento de Sistemas</b>, com interesse em inteligência
+artificial, dados e infraestrutura.
 </p>
 
 <p>
-Gosto de aprender novas tecnologias e transformar conhecimentos
-em projetos que possam resolver problemas do mundo real.
+Busco transformar conhecimento em projetos práticos, com foco em
+aprendizado contínuo e resolução de problemas.
 </p>
 
 </div>
 
----
+<br>
 
-<h2 align="center">Tecnologias</h2>
+## Stack
+
+<table align="center">
+<tr>
+<td valign="top">
+
+**Linguagens**
+<br><br>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
+
+</td>
+<td valign="top">
+
+**Dados**
+<br><br>
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</td>
+<td valign="top">
+
+**Ferramentas**
+<br><br>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+## Áreas de interesse
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+- Inteligência artificial e aprendizado de máquina
+- Engenharia de dados
+- Análise e processamento de dados
+
+</td>
+<td width="50%" valign="top">
+
+- Bancos de dados e SQL
+- Infraestrutura e Linux
+- Desenvolvimento de sistemas
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-334155?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/C-334155?style=for-the-badge&logo=c&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge&logo=postgresql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/Bash-334155?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/PostgreSQL-334155?style=for-the-badge&logo=postgresql&logoColor=336791"/>
-<img src="https://img.shields.io/badge/MySQL-334155?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/Pandas-334155?style=for-the-badge&logo=pandas&logoColor=150458"/>
-<img src="https://img.shields.io/badge/NumPy-334155?style=for-the-badge&logo=numpy&logoColor=013243"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Linux-334155?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Git-334155?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-334155?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-
-</div>
-
----
-
-<h2 align="center">Networking</h2>
-
-<div align="center">
+## Vamos nos conectar?
 
 <a href="https://www.linkedin.com/in/nicolas-lopes-bb5a7a39b/">
-<img src="https://img.shields.io/badge/LinkedIn-475569?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:nicolas_s_lopes@estudante.sesisenai.org.br">
-<img src="https://img.shields.io/badge/Gmail-475569?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/NicolasSLopes">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/nicolaslops">
-<img src="https://img.shields.io/badge/GitHub-475569?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br><br>
 
-</div>
+<sub>Construindo projetos, aprendendo continuamente e evoluindo na tecnologia.</sub>
 
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:475569,50:334155,100:1e293b&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=footer" width="100%"/>
 
 </div>
